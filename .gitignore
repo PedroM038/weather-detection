@@ -219,4 +219,6 @@ zip/**
 *.out
 *.synctex.gz
 *.pdf
-*.csv
+
+# database directory
+db/**
